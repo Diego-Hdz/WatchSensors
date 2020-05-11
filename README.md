@@ -4,5 +4,6 @@ An Android Wear OS application which reads the watch's accelerometer and gyrosco
 Optimized for a square face.
 
 UI of app using the Andriod Studio Wear Emulator *Android Wear Square API 28*:
+
 ![UI of app](https://github.com/Diego-Hdz/WatchSensors/blob/master/app/src/main/res/drawable/WatchSensors.png "UI of app")
 
